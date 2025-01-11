@@ -17,7 +17,7 @@ const sequenceFibonacci = (number) => {
     if (findNumber) {
       return `${listFibonacci} e o numero é : ${number}`;
     } else if (sum > number) {
-      return `esse o numero ${number} não faz parte da seguencia de fibonnaci`;
+      return `Esse o numero ${number} não faz parte da seguencia de fibonnaci`;
     }
   }
 };

@@ -1,4 +1,4 @@
-const test1 = () => {
+const sum = () => {
   let INDICE = 13;
   let soma = 0;
   let K = 0;
@@ -10,4 +10,4 @@ const test1 = () => {
   return soma;
 };
 
-console.log(test1());
+console.log(sum());
